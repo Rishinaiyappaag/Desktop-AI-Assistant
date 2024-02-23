@@ -5,7 +5,7 @@ This is personal Desktop AI
 
 
 Requrements:
-.pip install
+pip install
 .pyautogui
 .pyttsx3
 .speech_recognition 
