@@ -35,15 +35,15 @@ pywin32 is installed (can be installed using pip install pywin32)<br>
 You are on Windows (for .lnk files and os.startfile usage) <br>
 
 ## 🎙️ Required Hardware<br>
-Working microphone<br>
+Working microphone <br>
 
 Speakers for audio output<br>
 
 ## 📁 Project Structure<br>
 📦 Voice Assistant<br>
- ┣ 📜 voice_assistant.py      # Main assistant code
- ┣ 📜 data.txt                # Stores remembered text
- ┗ 📄 README.md               # Project documentation
+ ┣ 📜 voice_assistant.py      # Main assistant code <br>
+ ┣ 📜 data.txt                # Stores remembered text <br>
+ ┗ 📄 README.md               # Project documentation <br>
 ## 🧠 How It Works
 The assistant greets you based on the time of day.<br>
 
