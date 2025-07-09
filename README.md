@@ -56,22 +56,22 @@ Uses Google’s Speech Recognition API to understand your voice. <br>
 Responds via text-to-speech using pyttsx3. <br>
 
 ## 🎤 Example Commands<br>
-what's the time<br>
+what's the time <br>
 
-what's the date<br>
+what's the date <br>
 
-open youtube<br>
+open youtube <br>
 
-search on chrome<br>
+search on chrome <br>
 
-play music<br>
+play music <br>
 
 take screenshot<br>
 
-remember I have a meeting at 5 PM<br>
+remember I have a meeting at 5 PM <br>
 
-what did I say to remember<br
-shutdown<br>
+what did I say to remember <br
+shutdown <br>
 
 ## 🧑‍💻 Author
 ## Developed by Rishin Aiyappa
