@@ -69,8 +69,6 @@ play music <br>
 take screenshot<br>
 
 remember I have a meeting at 5 PM <br>
-
-what did I say to remember <br>
 shutdown <br>
 
 ## 🧑‍💻 Author
